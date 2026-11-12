@@ -59,6 +59,7 @@ I wanted to build an AI application that solves a practical, everyday problem. I
 - **Pillow** — Image preprocessing
 - **Requests** — API communication
 - **Git and GitHub** — Version control and source code hosting
+- **ChatGPT (OpenAI)** — AI-assisted development, code generation, debugging, and application design.
 
 ## Built by
 
