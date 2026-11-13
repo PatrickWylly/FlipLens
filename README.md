@@ -6,7 +6,7 @@ FlipLens is an AI-powered web application that helps people determine whether se
 
 **Live App:** https://fliplens.streamlit.app/
 
-**Demo Video:** [Add video link after recording]
+**Demo Video:** https://youtu.be/6g7lbbduoQg
 
 **GitHub Repository:** [FlipLens on GitHub](https://github.com/PatrickWylly/FlipLens)
 
